@@ -49,6 +49,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>jenkins-cicd</finalName>
 	</build>
 
 </project>

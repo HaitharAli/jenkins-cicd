@@ -11,7 +11,7 @@ public class JenkinsCicdApplication {
 
     @GetMapping("/jenkins")
     public String getMessage() {
-        return "Welcome to Jenkins!!!";
+        return "Welcome to Jenkins CI/CD pipeline!!!";
     }
 
     public static void main(String[] args) {
